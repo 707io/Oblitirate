@@ -30,7 +30,7 @@ Built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) and p
 
 ```bash
 git clone https://github.com/707io/Obliterate.git
-cd obliterate
+cd Obliterate
 pip install -r requirements.txt
 python main.py
 ```
