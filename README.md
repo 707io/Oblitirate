@@ -1,7 +1,7 @@
 
 # 🧨 Obliterate
 
-**Obliterate** is a sleek and powerful desktop app for forcefully deleting files and folders — even those locked, in-use, or system protected. Designed for Windows users who need real deletion control with a beautiful dark GUI.
+**Obliterate** is a desktop app for forcefully deleting files and folders — even those locked, in-use, or system protected. Designed for Windows users who need real deletion control with a beautiful dark GUI.
 
 Built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) and powered by PowerShell for fallback deletion.
 
