@@ -41,7 +41,7 @@ python main.py
 
 ### 🧾 Run as a Standalone EXE
 
-Download [`Obliterate.exe`](https://github.com/707io/obliterate-app/releases/latest) and run it directly.
+Download [`Obliterate.exe`](https://github.com/707io/Obliterate/blob/main/Obliterate.exe) and run it directly.
 
 > ⚠ You may need to **run as Administrator** to delete locked/system files.
 
