@@ -20,7 +20,6 @@ Built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) and p
 ✅ Admin manifest support (run as admin for full access)  
 ✅ Collapsible logs panel with clear output  
 ✅ Sleek, compact dark-themed interface  
-✅ Created by [707](https://github.com/707io)
 
 ---
 
